@@ -5,4 +5,4 @@
               {applications,[kernel,stdlib]},
               {mod,{erlyup_app,[]}},
               {env,[]},
-              {modules,[erlyup_app,erlyup_sup]}]}.
+              {modules,[erlyup_app,erlyup_server,erlyup_sup]}]}.
